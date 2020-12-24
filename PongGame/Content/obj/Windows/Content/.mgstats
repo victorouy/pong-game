@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Victor/Desktop/NET. C#/PongLibrary/PongGame/Content/ballImg.jpg","C:/Users/Victor/Desktop/NET. C#/PongLibrary/PongGame/Content/bin/Windows/Content/ballImg.xnb","TextureProcessor","Texture2DContent",805,485,0.130672
+"C:/Users/Victor/Desktop/NET. C#/PongLibrary/PongGame/Content/paddleImg.png","C:/Users/Victor/Desktop/NET. C#/PongLibrary/PongGame/Content/bin/Windows/Content/paddleImg.xnb","TextureProcessor","Texture2DContent",160,4165,0.3152865

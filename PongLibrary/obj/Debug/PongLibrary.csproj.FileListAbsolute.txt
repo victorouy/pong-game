@@ -1,0 +1,10 @@
+C:\Users\Victor\Desktop\NET. C#\PongLibrary\PongLibrary\bin\Debug\PongLibrary.exe.config
+C:\Users\Victor\Desktop\NET. C#\PongLibrary\PongLibrary\bin\Debug\PongLibrary.exe
+C:\Users\Victor\Desktop\NET. C#\PongLibrary\PongLibrary\bin\Debug\PongLibrary.pdb
+C:\Users\Victor\Desktop\NET. C#\PongLibrary\PongLibrary\obj\Debug\PongLibrary.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\NET. C#\PongLibrary\PongLibrary\obj\Debug\PongLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\NET. C#\PongLibrary\PongLibrary\obj\Debug\PongLibrary.exe
+C:\Users\Victor\Desktop\NET. C#\PongLibrary\PongLibrary\obj\Debug\PongLibrary.pdb
+C:\Users\Victor\Desktop\NET. C#\PongLibrary\PongLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Victor\Desktop\NET. C#\PongLibrary\PongLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Victor\Desktop\NET. C#\PongLibrary\PongLibrary\obj\Debug\PongLibrary.csproj.CopyComplete
